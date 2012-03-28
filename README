@@ -1,0 +1,4 @@
+Based around the javascript text compressor by Alexei White: http://blogs.nitobi.com/alexei/?p=166
+Ported to PHP by me. 
+
+It was no easy task as PHP doesn't support non ASCII char's very well so i had to find some workarounds.
